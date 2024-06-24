@@ -1,0 +1,9 @@
+
+; Start of Farnborough Pack Colour
+
+#define LFCentreline 16744448
+#define LFLARS 16759671
+#define LFRoads 13107200
+#define VOCentreline 16762052
+
+; End of Farnborough Pack Colour

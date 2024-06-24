@@ -1,0 +1,25 @@
+
+; Start of Farnborough Pack FREETEXT
+
+N051.18.03.718:W000.44.39.161:EGLF Centerline Markers:1
+N051.18.30.360:W000.43.18.323:EGLF Centerline Markers:2
+N051.18.56.219:W000.41.49.661:EGLF Centerline Markers:3
+N051.19.24.428:W000.40.17.088:EGLF Centerline Markers:4
+N051.19.48.720:W000.38.52.338:EGLF Centerline Markers:5
+N051.20.15.362:W000.37.23.677:EGLF Centerline Markers:6
+N051.20.43.572:W000.36.01.534:EGLF Centerline Markers:7
+N051.21.10.998:W000.34.36.784:EGLF Centerline Markers:8
+N051.21.41.558:W000.33.04.211:EGLF Centerline Markers:9
+N051.22.06.633:W000.31.43.373:EGLF Centerline Markers:10
+N051.16.43.203:W000.49.01.397:EGLF Centerline Markers:1
+N051.16.15.777:W000.50.27.777:EGLF Centerline Markers:2
+N051.15.47.371:W000.51.50.897:EGLF Centerline Markers:3
+N051.15.19.946:W000.53.14.018:EGLF Centerline Markers:4
+N051.14.51.540:W000.54.32.248:EGLF Centerline Markers:5
+N051.14.25.094:W000.55.55.369:EGLF Centerline Markers:6
+N051.13.52.770:W000.57.29.897:EGLF Centerline Markers:7
+N051.13.30.242:W000.58.53.018:EGLF Centerline Markers:8
+N051.13.04.775:W001.00.09.619:EGLF Centerline Markers:9
+N051.12.31.472:W001.01.50.667:EGLF Centerline Markers:10
+
+; End of Farnborough Pack FREETEXT
