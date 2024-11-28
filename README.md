@@ -1,1 +1,1 @@
-Download UK folder and put inside your EuroScope folder.
+Archived, Farnborough profile now included in controller pack
